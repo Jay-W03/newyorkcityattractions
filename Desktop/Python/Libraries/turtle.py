@@ -1,0 +1,8 @@
+>>> turtle.position()
+(0.00,0.00)
+>>> turtle.forward(25)
+>>> turtle.position()
+(25.00,0.00)
+>>> turtle.forward(-75)
+>>> turtle.position()
+(-50.00,0.00)
